@@ -1,0 +1,6 @@
+<ruleset name="gg.pl (testing)">
+        <target host="www.gg.pl" />
+
+        <rule from="^http:"
+                to="https:" />
+</ruleset>
